@@ -1,0 +1,13 @@
+.result-container {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+}
+.score-container {
+    display: flex;
+    justify-content: space-between;
+}
+.second-result-container {
+    display: flex;
+    justify-content: space-between;
+}
